@@ -1,0 +1,2 @@
+python -m uvicorn app:app --reload
+python random_data_gen.py
